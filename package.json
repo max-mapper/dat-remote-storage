@@ -1,0 +1,20 @@
+{
+  "name": "dat-remote-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/dat-remote-storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxogden/dat-remote-storage/issues"
+  },
+  "homepage": "https://github.com/maxogden/dat-remote-storage#readme"
+}
